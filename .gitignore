@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Builds and artifacts
+dist/
+build/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Misc
+coverage/
+.npm/
+.yarn/
+*.local
